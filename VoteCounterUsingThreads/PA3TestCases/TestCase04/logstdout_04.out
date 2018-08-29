@@ -1,0 +1,8 @@
+in check_if
+in check_if
+in check_if
+makeFIlePath ./TestCase04/inputdir/Region_2second if
+in check_if
+makeFIlePath ./TestCase04/inputdir/Region_1second if
+final_root_output ./TestCase04/outputdir/Who_Won/Who_Won.txt
+./TestCase04/outputdir/Who_Won/Who_Won.txt

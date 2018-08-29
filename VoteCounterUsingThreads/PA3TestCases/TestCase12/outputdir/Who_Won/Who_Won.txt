@@ -1,0 +1,8 @@
+Ash:60
+Ciara:30
+Joanna:40
+Ginny:40
+Fiona:50
+Heidi:20
+Aseel:236
+Winner:Aseel

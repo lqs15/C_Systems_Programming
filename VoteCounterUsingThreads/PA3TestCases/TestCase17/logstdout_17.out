@@ -1,0 +1,1 @@
+Expected three program argument: A file that contains the graph, Path of the input directory, and Path of the output directory  but the progam was given 4 arguments.
